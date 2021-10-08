@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: rgb(26, 114, 117);
+    margin-bottom: 50px;
+}
+
+.screen{
+    margin-top: 10px;
+    display: flex;
+    height: 100vh;
+}
+
+
+.esquerda{
+
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.esquerda img{
+
+    max-width: 600px;
+    height: auto;
+}
+
+.direita{
+
+    width: 550px;
+    background-color:#DDD;
+    padding: 60px;
+
+}
+
+.direita label{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.direita input{
+    width: 100%;
+    border: 1px solid #999;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 14px;
+    outline: 0;
+}
+
+.error{
+    font-size: 11px;
+    background-color: #ff0000;
+    color: #fff;
+    padding: 4px;
+    border-radius: 3px ;
+}
