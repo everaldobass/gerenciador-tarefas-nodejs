@@ -13,7 +13,8 @@ Criando uma **Urna Eletrônica** - HTML5, CSS3 e JavaScript.
 
 ## 003 - Slider
 Criando um **Slider** - HTML5, CSS3 e JavaScript.
+<img src='./slides-js/img/slider.png ' width='50%'/>
 
-<img src='./curso-css-basico/img/css-basico.png ' width='50%'/>
+
 
 
